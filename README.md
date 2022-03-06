@@ -16,3 +16,7 @@ asdf
 
 Watch this dude!
 123
+
+## Local Development
+
+1. Open index.htlm in your browser
